@@ -1,0 +1,6 @@
+node_modules
+docs/
+.env
+config
+tests/
+actionTest.js

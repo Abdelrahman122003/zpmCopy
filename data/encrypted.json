@@ -1,0 +1,171 @@
+{
+  "state": "encrypted",
+  "domains": [
+    {
+      "domainName": "leetcode",
+      "accounts": [
+        {
+          "username": "username",
+          "password": {
+            "iv": "5RasB/Dn73O1gu9ed7wmLw==",
+            "encryptedData": "5+CwlqNC6fqHqXG1pkYYrg=="
+          }
+        },
+        {
+          "username": "username",
+          "password": {
+            "iv": "bq4ohcN1NbICI59iTL/oVw==",
+            "encryptedData": "IC4ZuTMrZVVls41NGwb8gA=="
+          }
+        }
+      ]
+    },
+    {
+      "domainName": "https://github.com",
+      "accounts": [
+        {
+          "username": "johndoe",
+          "password": {
+            "iv": "Ecrsf67OyPB6llDPYbnKsg==",
+            "encryptedData": "b0mZx2f8d1MmjRABZH7zMg=="
+          }
+        },
+        {
+          "username": "johndoe",
+          "password": {
+            "iv": "GXfRNqaiwF/e4TJ+90IKgw==",
+            "encryptedData": "lZAix+arJ+RgKlMyRmvQBA=="
+          }
+        }
+      ]
+    },
+    {
+      "domainName": "facebook",
+      "accounts": [
+        {
+          "username": "janesmith",
+          "password": {
+            "iv": "gb3I+wBf3oP6VzzncnQFbg==",
+            "encryptedData": "c83/mVjYOIvsR0rnJah3eQ=="
+          }
+        }
+      ]
+    },
+    {
+      "domainName": "https://chatgpt.com",
+      "accounts": [
+        {
+          "username": "alicej",
+          "password": {
+            "iv": "lTzdweof/qoVWfslR+Ii5Q==",
+            "encryptedData": "jHvT4rJFfB3PhkmFNFJWcw=="
+          }
+        },
+        {
+          "username": "alicej",
+          "password": {
+            "iv": "aVSEuel4f/T3EZcI+9hYMg==",
+            "encryptedData": "935f2SRFkYg8JCaZIeVRGw=="
+          }
+        }
+      ]
+    },
+    {
+      "domainName": "code.org",
+      "accounts": [
+        {
+          "username": "bobb",
+          "password": {
+            "iv": "7sy8REV16niw7o5i/W2C4Q==",
+            "encryptedData": "csXcJWH5PvI6VQ3+ukbzWQ=="
+          }
+        },
+        {
+          "username": "jonas",
+          "password": {
+            "iv": "Xcs2d5WRqm0IH3uN2Lrtwg==",
+            "encryptedData": "IrzeFkNYfM61nrz0EaXh8Q=="
+          }
+        },
+        {
+          "username": "bobb",
+          "password": {
+            "iv": "z5A8Oq0E2tXOqh8BrtuQEg==",
+            "encryptedData": "F1jWSz/td+2TjjDleoii4A=="
+          }
+        },
+        {
+          "username": "jonas",
+          "password": {
+            "iv": "hWb4Wr0FlUDfTngrH8mnwA==",
+            "encryptedData": "TwSQjmJmR9qUsw0mE3imMw=="
+          }
+        }
+      ]
+    },
+    {
+      "domainName": "github",
+      "accounts": [
+        {
+          "username": "zoombie",
+          "password": {
+            "iv": "aD3A5vgpI4zWCClUU/Ve4g==",
+            "encryptedData": "Rd+fUp2cd0x4QljX581/vg=="
+          }
+        }
+      ]
+    },
+    {
+      "domainName": "linux",
+      "accounts": [
+        {
+          "username": "alisayed",
+          "password": {
+            "iv": "1mVfwaKTLg9dK+l+dEbkmg==",
+            "encryptedData": "0Cz5dzMWbzJ4pl9avWkEbQ=="
+          }
+        },
+        {
+          "username": "zoombie",
+          "password": {
+            "iv": "pT1pJ6Daxqko+5mqRiO9Uw==",
+            "encryptedData": "ibnQNIAB2eAnf6Q9/c2KuQ=="
+          }
+        },
+        {
+          "username": "zoombie_coder",
+          "password": {
+            "iv": "/pvzTXmv1oCod7lAdJ+Sew==",
+            "encryptedData": "ndpGMUGSaZGLT9DMMnc9Cw=="
+          }
+        },
+        {
+          "username": "hackora",
+          "password": {
+            "iv": "nuhQnI1A536ZiZRCRM0HVw==",
+            "encryptedData": "9qaeYAecv29Tqk0C1L+LCQ=="
+          }
+        }
+      ]
+    },
+    {
+      "domainName": "discord",
+      "accounts": [
+        {
+          "username": "zoombie",
+          "password": {
+            "iv": "M1in+K49uRiF8VCmUV7dag==",
+            "encryptedData": "bq4bQKf5gE7YBfWdrmkBUg=="
+          }
+        },
+        {
+          "username": "boda",
+          "password": {
+            "iv": "W+FiByaObjTihQ/bOX2EJA==",
+            "encryptedData": "FawCow1QQEzj9M9i8r/0kw=="
+          }
+        }
+      ]
+    }
+  ]
+}
