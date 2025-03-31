@@ -185,4 +185,14 @@ npm test
 
 ## Development Workflow
 
+<p align="center">
+  <img src="./images/branches2.png" alt="ZPM Logo" width="500" height="300">
+</p>
+
+<p align="center">
+  <img src="./images/branches1.png" alt="ZPM Logo" width="500" height="300">
+</p>
+
 ## License
+
+[License](./LICENSE)
