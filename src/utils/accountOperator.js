@@ -5,7 +5,7 @@ class AccountOperator {
   // function to Account object into {username, password, domainName}
   static reconstruction = function (records) {
     return records.map((record) => {
-      return new Account(record[0].toLowerCase(), record[2], record[3]);
+      return new Account(record[1].toLowerCase(), record[2], record[3]);
     });
   };
   // private method (hendler for getAccountsByDomain for add and getPass command
